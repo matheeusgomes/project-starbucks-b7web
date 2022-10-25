@@ -8,4 +8,4 @@ Linguagens utilizadas:
 
 Acesso: <a href="">Link</a>
 
-![image](https://user-images.githubusercontent.com/10269675/194662109-dea65774-ae88-4006-869b-16e53ddf5355.png)
+<img src="https://user-images.githubusercontent.com/10269675/194662109-dea65774-ae88-4006-869b-16e53ddf5355.png" width=1000px>
